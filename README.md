@@ -58,4 +58,14 @@ Cara Pengguna Git
   12. Menambahkan remote repository dari Git ke GitHub dengan menggunakan perintah:[git remote add origin{url git repository}]
       ![Screenshot 2022-10-17 124029 (6)](https://user-images.githubusercontent.com/115732267/196100005-cb995675-aefe-4933-bd82-f1b786aee9f6.png)
       
-  13. Pop Up Command Prompt (CMD) akan terbuka. pada proses ini kita akan melakukan download file repository yang tadi di buat, dengan mengetikan perintah berikut: [git clone 
+  13. Pop Up Command Prompt (CMD) akan terbuka. pada proses ini kita akan melakukan download file repository yang tadi di buat, dengan mengetikan perintah berikut: [git clone https://github.com/Rayiden20/latihanvcs.git
+      ![Screenshot 2022-10-17 130348 (2)](https://user-images.githubusercontent.com/115732267/196100985-0bd56ed9-a824-45db-8bbf-4120f04769dc.png)
+
+  14. Saat ini akan melakukan Git Push, Git Push berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. silahkan ketik perintah: [git push]
+      ![Screenshot 2022-10-17 130348 (3)](https://user-images.githubusercontent.com/115732267/196101391-d0ca4ad0-2dca-42e8-9a12-96589c8d79fa.png)
+      Semua proses telah selesai, silahkan Kembali  ke Web browser  untuk melihat perubahan yang telah di commit dan push dari remote.
+      
+   Ini saja informasi yang dapat saya sampaikan
+   
+   #ATAS PERHATIANNYA, SAYA MENGUCAPKAN TERIMA KASIH.
+   
